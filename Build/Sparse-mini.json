@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Slot-Simulator",
-"dataUrl": "Sparse-v2-mini.data.unityweb",
-"wasmCodeUrl": "Sparse-v2-mini.wasm.code.unityweb",
-"wasmFrameworkUrl": "Sparse-v2-mini.wasm.framework.unityweb",
+"dataUrl": "Sparse-mini.data.unityweb",
+"wasmCodeUrl": "Sparse-mini.wasm.code.unityweb",
+"wasmFrameworkUrl": "Sparse-mini.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
